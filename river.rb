@@ -15,4 +15,5 @@ seine. = River.new("The Seine", "482", "Paris")
 yangtze. = River.new("The Yangtze", "3,951", "China")
 euphrates. = River.new("The Euphrates", "1,740", "Syria, Turkey, Iraq")
 
-puts nile.
+puts nile.length
+puts amazon.length
