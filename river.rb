@@ -9,7 +9,7 @@ class River
 end
 
 nile. = River.new("The Nile", "Egypt")
-mississippi. = River.new("The Mississippi", "U.S.A")
+mississippi. = River.new("The Mississippi", "U.S.A", "2,320")
 amazon. = River.new("The Amazon", "Brazil", "4,345")
 seine. = River.new("The Seine", "Paris" "482")
 yangtze. = River.new("The Yangtze", "China", "3,951")
