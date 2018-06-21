@@ -17,3 +17,4 @@ euphrates = River.new("The Euphrates", "1,740", "Syria, Turkey, Iraq")
 
 puts nile.length
 puts amazon.length
+puts "Nile is #{nile.length}, and amazon is #{amazon.length}."
